@@ -1,4 +1,7 @@
 ---
+default_locale: en
+locales: 
+  $ref: locales.yml
 name: "Build your own toolchain"
 description: "This toolchain is empty. After you create it, you can add tool integrations as needed.\n\nTo get started, click **Create**."
 version: 0.1
