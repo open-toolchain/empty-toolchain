@@ -1,7 +1,21 @@
----
+version: '2'
 default_locale: en
-locales: 
+locales:
   $ref: locales.yml
-name: "Build your own toolchain"
-description: "This toolchain has no preconfigured tools. If you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**."
-version: 0.1
+template:
+  name: Build your own toolchain
+  description: >-
+    This toolchain has no preconfigured tools. If you are already familiar with
+    toolchains, you can set up your own toolchain.
+
+
+    To get started, click **Create**.
+  info:
+    git url: >-
+      [https://github.com/open-toolchain/empty-toolchain](https://github.com/open-toolchain/empty-toolchain)
+    git branch: >-
+      [dedicated-cio](https://github.com/open-toolchain/empty-toolchain/tree/dedicated-cio)
+toolchain:
+  name: 'empty-toolchain-{{timestamp}}'
+services: {}
+form: {}
