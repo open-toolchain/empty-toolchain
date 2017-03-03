@@ -16,5 +16,11 @@ template:
     git branch: '[master](https://github.com/open-toolchain/empty-toolchain/tree/master)'
 toolchain:
   name: 'empty-toolchain-{{timestamp}}'
+  template:
+    getting_started: |-
+      **Your toolchain is ready!**
+
+      **Quick start:** You can now add tool integrations.
+      For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom?walkthrough_step=0) for this toolchain.      
 services: {}
 form: {}
