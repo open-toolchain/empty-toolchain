@@ -4,7 +4,6 @@ locales:
   $ref: locales.yml
 template:
   name: Build your own toolchain
-  icon: icon.svg
   description: >-
     This toolchain has no preconfigured tools. If you are already familiar with
     toolchains, you can set up your own toolchain.
