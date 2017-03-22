@@ -1,15 +1,11 @@
 version: '2'
-default_locale: en
-locales:
-  $ref: locales.yml
+messages:
+  $i18n: locales.yml
 template:
-  name: Build your own toolchain
-  description: >-
-    This toolchain has no preconfigured tools. If you are already familiar with
-    toolchains, you can set up your own toolchain.
-
-
-    To get started, click **Create**.
+  name:
+    $ref: "#/messages/template.name"
+  description:
+    $ref: "#/messages/template.description"
   info:
     git url: >-
       [https://github.com/open-toolchain/empty-toolchain](https://github.com/open-toolchain/empty-toolchain)
@@ -17,10 +13,7 @@ template:
 toolchain:
   name: 'empty-toolchain-{{timestamp}}'
   template:
-    getting_started: |-
-      **Your toolchain is ready!**
-
-      **Quick start:** You can now add tool integrations.
-      For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) for this toolchain.
+    getting_started:
+      $ref: "#/messages/template.gettingStarted"
 services: {}
 form: {}
