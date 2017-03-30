@@ -1,17 +1,16 @@
 version: '2'
+messages:
+  $i18n: locales.yml
 template:
-  name: Build your own toolchain
-  description: >-
-    This toolchain has no preconfigured tools. If you are already familiar with
-    toolchains, you can set up your own toolchain.
-
-
-    To get started, click **Create**.
+name:
+    $ref: "#/messages/template.name"
+  description:
+    $ref: "#/messages/template.description"
   info:
     git url: >-
       [https://github.com/open-toolchain/empty-toolchain](https://github.com/open-toolchain/empty-toolchain)
     git branch: >-
-      [dedicated-sncf](https://github.com/open-toolchain/empty-toolchain/tree/dedicated-sncf)
+      [dedicated-cio](https://github.com/open-toolchain/empty-toolchain/tree/dedicated-cio)
 toolchain:
   name: 'empty-toolchain-{{timestamp}}'
 services: {}
