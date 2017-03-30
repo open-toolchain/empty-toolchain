@@ -1,3 +1,4 @@
 ---
-name: "Cree su propia cadena de herramientas"
-description: "Esta cadena de herramientas no tiene herramientas preconfiguradas. Si ya está familiarizado con cadenas de herramientas, puede configurar su propia cadena de herramientas.\n\nPara comenzar, pulse **Crear**."
+template.name: "Build your own toolchain"
+template.description: "This toolchain has no preconfigured tools. If you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**."
+template.gettingStarted: "**Your toolchain is ready!**\n**Quick start:** You can now add tool integrations. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) for this toolchain."
