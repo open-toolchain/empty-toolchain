@@ -10,7 +10,7 @@ template:
     git url: >-
       [https://github.com/open-toolchain/empty-toolchain](https://github.com/open-toolchain/empty-toolchain)
     git branch: >-
-      [dedicated-cio](https://github.com/open-toolchain/empty-toolchain/tree/dedicated-cio)
+      [dedicated-cio](https://github.com/open-toolchain/empty-toolchain/tree/dedicated-sncf)
 toolchain:
   name: 'empty-toolchain-{{timestamp}}'
 services: {}
