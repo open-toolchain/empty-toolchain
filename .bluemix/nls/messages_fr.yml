@@ -1,4 +1,4 @@
 ---
-template.name: "Build your own toolchain"
-template.description: "This toolchain has no preconfigured tools. If you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**."
-template.gettingStarted: "**Your toolchain is ready!**\n**Quick start:** You can now add tool integrations. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) for this toolchain."
+template.name: "Construisez votre propre chaîne d'outils"
+template.description: "Cette chaîne d'outils ne comporte aucun outil préconfiguré. Si vous connaissez déjà les chaînes d'outils, vous pouvez configurer votre propre chaîne d'outils.\n\nPour commencer, cliquez sur **Créer**."
+template.gettingStarted: "**Votre chaîne d'outils est prête !**\n**Démarrage rapide :** vous pouvez maintenant ajouter des intégrations d'outils. Pour obtenir des instructions étape par étape, reportez-vous au [tutoriel](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) relatif à cette chaîne d'outils. "
