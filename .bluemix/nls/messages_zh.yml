@@ -1,3 +1,4 @@
 ---
-name: "构建您自己的工具链"
-description: "此工具链没有任何预配置的工具。如果您已经熟悉工具链，那么可以设置您自己的工具链。\n\n单击**创建**以开始。"
+template.name: "构建您自己的工具链"
+template.description: "此工具链没有任何预配置的工具。如果您已经熟悉工具链，那么可以设置您自己的工具链。\n\n单击**创建**以开始。"
+template.gettingStarted: "**工具链已就绪！**\n**快速启动：** 现在您可以添加工具集成。有关分步骤指示信息，请参阅此工具链的[教程](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom)。"
