@@ -1,4 +1,3 @@
 ---
 template.name: "Build your own ツールチェーン"
 template.description: "このツールチェーンには、事前構成されたツールは含まれていません。ツールチェーンを既に熟知している場合、独自のツールチェーンをセットアップできます。\n\n開始するには、**「作成」**をクリックします。"
-template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** 現在、ツール統合を追加できます。ステップバイステップの説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom)を参照してください。"

@@ -1,4 +1,3 @@
 ---
 template.name: "Cree su propia cadena de herramientas"
 template.description: "Esta cadena de herramientas no tiene herramientas preconfiguradas. Si ya está familiarizado con cadenas de herramientas, puede configurar su propia cadena de herramientas.\n\nPara comenzar, pulse **Crear**."
-template.gettingStarted: "**¡Su cadena de herramientas está lista!**\n**Inicio rápido:** Ahora puede añadir integraciones de herramientas. Para obtener instrucciones detalladas paso a paso, consulte la [guía de aprendizaje](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) para esta cadena de aprendizaje. "

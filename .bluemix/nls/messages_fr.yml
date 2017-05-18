@@ -1,4 +1,3 @@
 ---
 template.name: "Construisez votre propre chaîne d'outils"
 template.description: "Cette chaîne d'outils ne comporte aucun outil préconfiguré. Si vous connaissez déjà les chaînes d'outils, vous pouvez configurer votre propre chaîne d'outils.\n\nPour commencer, cliquez sur **Créer**."
-template.gettingStarted: "**Votre chaîne d'outils est prête !**\n**Démarrage rapide :** vous pouvez maintenant ajouter des intégrations d'outils. Pour obtenir des instructions étape par étape, reportez-vous au [tutoriel](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) relatif à cette chaîne d'outils. "
