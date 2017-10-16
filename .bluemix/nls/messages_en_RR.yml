@@ -1,4 +1,4 @@
 ---
-template.name: "Build your own toolchain~otc-ui802"
-template.description: "This toolchain has no preconfigured tools. If you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**.~otc-ui803"
-template.gettingStarted: "**Your toolchain is ready!**\n**Quick start:** You can now add tool integrations. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom?task=2) for this toolchain.~otc-ui804"
+template.name: "Build your own toolchain~otc-ui805"
+template.description: "This toolchain has no preconfigured tools. If you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**.~otc-ui806"
+template.gettingStarted: "**Your toolchain is ready!**\n**Quick start:** You can now add tool integrations. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom?task=2) for this toolchain.~otc-ui807"
