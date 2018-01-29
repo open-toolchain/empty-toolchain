@@ -1,4 +1,4 @@
 ---
 template.name: "[G'Ｂｕｉｌｄ ｙｏｕr own toolchainฏูİı｜]"
-template.description: "[G'Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｈａｓ ｎｏ ｐｒｅｃｏｎｆｉｇｕｒｅｄ ｔｏｏｌｓ. Ｉｆ you are already familiar with toolchains, you can set up your own toolchain.\n\nTo get started, click **Create**.ฏูİı｜]"
+template.description: "[G'Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｈａｓ ｎｏ ｐｒｅｃｏｎｆｉｇｕｒｅｄ ｔｏｏｌｓ. Ｉｆ ｙｏｕ ａｒｅ ａｌｒｅａｄｙ ｆａｍｉｌｉａｒ ｗｉｔｈ ｔｏｏｌｃｈａｉｎｓ, ｙｏu can set up your own toolchain.\n\nTo get started, click **Create**.\n\nFor step-by-step instructions, follow the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom).ฏูİı｜]"
 template.gettingStarted: "[G'**Ｙｏｕｒ ｔｏｏｌｃｈａｉｎ ｉｓ ｒｅａｄｙ!**\n**Ｑｕｉｃｋ ｓｔａｒｔ:** Ｙｏｕ ｃａｎ ｎｏｗ ａｄｄ ｔｏｏｌ ｉｎｔｅｇｒａｔｉｏｎs. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom) for this toolchain.ฏูİı｜]"
