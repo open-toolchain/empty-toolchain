@@ -1,0 +1,27 @@
+{
+  "blockchain": [
+    {
+      "name": "BLOCKCHAIN",
+      "credentials": {
+        "apikey": "X2-lnVHIfj9pybvD750ATNZtd8w1pLiEKHJiZplsU-Fe"
+      }
+    }
+  ],
+  "appid": [
+    {
+      "name": "blockchain-token-key-appid-1568046013493",
+      "credentials": {
+        "apikey": "2DPNTsOrPgXsP0r8hKskE5vDRHruNGZwQOoOjwWKck1a",
+        "appidServiceEndpoint": "https://us-south.appid.cloud.ibm.com",
+        "clientId": "e6379bba-abd8-4240-bee9-35bfd1298b91",
+        "discoveryEndpoint": "https://us-south.appid.cloud.ibm.com/oauth/v4/0dc11006-0c74-4730-9d97-f5a0b49e3c20/.well-known/openid-configuration",
+        "managementUrl": "https://us-south.appid.cloud.ibm.com/management/v4/0dc11006-0c74-4730-9d97-f5a0b49e3c20",
+        "oauthServerUrl": "https://us-south.appid.cloud.ibm.com/oauth/v4/0dc11006-0c74-4730-9d97-f5a0b49e3c20",
+        "profilesUrl": "https://us-south.appid.cloud.ibm.com",
+        "secret": "MjNkOWIzNTQtZWY5YS00NTIxLWI5M2ItZTg2YTcxZjM1NDBk",
+        "tenantId": "0dc11006-0c74-4730-9d97-f5a0b49e3c20",
+        "version": 4
+      }
+    }
+  ]
+}
