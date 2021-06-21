@@ -7,9 +7,13 @@ template:
   description:
     $ref: "#/messages/template.description"
   info:
-    git url: >-
-      [https://github.com/open-toolchain/empty-toolchain](https://github.com/open-toolchain/empty-toolchain)
-    git branch: '[master](https://github.com/open-toolchain/empty-toolchain/tree/master)'
+    git url: >
+      "[" + $env.repository + "]" +
+        "(" + $env.repository + ")"
+    git branch: >
+      "[" + $env.branch + "]" +
+        "(" + $env.repository +
+          "/tree/" + $env.branch + ")"
 toolchain:
   name: 'empty-toolchain-{{timestamp}}'
   template:
