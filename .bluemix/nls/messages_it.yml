@@ -1,4 +1,4 @@
 ---
 template.name: "Crea la tua toolchain"
-template.description: "Questa toolchain non contiene alcuno strumento preconfigurato. Se hai già dimestichezza con le toolchain, puoi configurare la tua toolchain. \n\nPer iniziare, fare clic su **Crea**.\n\nPer istruzioni dettagliate, seguire [tutorial](https://www.ibm.com/cloud/garage/tutorials/create-a-custom-toolchain)."
+template.description: "Questa toolchain non contiene alcuno strumento preconfigurato. Se hai già dimestichezza con le toolchain, puoi configurare la tua toolchain. \n\nPer iniziare, fare clic su **Crea**.\n\nPer istruzioni dettagliate, seguire [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain)."
 template.gettingStarted: "**La toolchain è pronta!**\n**Avvio rapido:** Ora è possibile aggiungere integrazioni degli strumenti. Per istruzioni dettagliate consultare il [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2) per questa toolchain."
