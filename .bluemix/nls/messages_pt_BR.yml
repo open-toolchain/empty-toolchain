@@ -1,4 +1,4 @@
 ---
 template.name: "Construa sua própria cadeia de ferramentas"
-template.description: "Essa cadeia de ferramentas não possui ferramentas pré-configuradas. Se você já estiver familiarizado com as cadeias de ferramentas, será possível configurar sua própria cadeia de ferramentas.\n\nPara iniciar, clique em **Criar**.\n\nPara obter instruções passo a passo, siga o [tutorial](https://www.ibm.com/cloud/garage/tutorials/create-a-custom-toolchain)."
+template.description: "Essa cadeia de ferramentas não possui ferramentas pré-configuradas. Se você já estiver familiarizado com as cadeias de ferramentas, será possível configurar sua própria cadeia de ferramentas.\n\nPara iniciar, clique em **Criar**.\n\nPara obter instruções passo a passo, siga o [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain)."
 template.gettingStarted: "**Sua cadeia de ferramentas está pronta!**\n**Iniciação rápida:** Você agora pode incluir integrações de ferramenta. Para obter instruções passo a passo, consulte o [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2) para essa cadeia de ferramentas."
