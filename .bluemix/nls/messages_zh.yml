@@ -1,4 +1,4 @@
 ---
 template.name: "构建您自己的工具链"
-template.description: "此工具链没有任何预配置的工具。如果您已经熟悉工具链，那么可以设置您自己的工具链。\n\n单击**创建**以开始。\n\n有关逐步指示信息，请参阅[教程](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain)。"
-template.gettingStarted: "**工具链已就绪！**\n**快速启动：** 现在您可以添加工具集成。有关逐步指示信息，请参阅此工具链的[教程](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2)。"
+template.description: "此工具链没有任何预配置的工具。 如果您已经熟悉工具链，那么可以设置自己的工具链。\n\n要开始使用，请单击**创建**。\n\n 有关更多详细信息，请查看[文档](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)。"
+template.gettingStarted: "**您的工具链已就绪！**\n**快速启动：** 您现在可以添加工具集成。 有关更多详细信息，请查看[文档](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)。"

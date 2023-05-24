@@ -1,4 +1,4 @@
 ---
 template.name: "Eigene Toolchain erstellen"
-template.description: "Diese Toolchain enthält keine vorkonfigurierten Tools. Wenn Sie bereits mit Toolchains vertraut sind, können Sie eine eigene Toolchain konfigurieren. \n\nKlicken Sie auf **Erstellen**, um zu beginnen.\n\nSchrittweise Anweisungen finden Sie im [Lernprogramm](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain)."
-template.gettingStarted: "**Ihre Toolchain steht bereit!**\n**Schnelleinstieg:** Sie können nun Toolintegrationen hinzufügen. Schrittweise Anweisungen finden Sie im [Lernprogramm](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2) für diese Toolchain."
+template.description: "Diese Toolchain enthält keine vorkonfigurierten Tools. Wenn Sie bereits mit Toolchains vertraut sind, können Sie Ihre eigene Toolchain einrichten.\n\nKlicken Sie zum Starten auf **Erstellen**.\n\n Weitere Details finden Sie in der [Dokumentation](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)."
+template.gettingStarted: "**Ihre Toolchain ist bereit!**\n**Schnelleinstieg:** Sie können jetzt Toolintegrationen hinzufügen. Weitere Details finden Sie in der [Dokumentation](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)."

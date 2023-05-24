@@ -1,4 +1,4 @@
 ---
 template.name: "Build your own ツールチェーン"
-template.description: "このツールチェーンには、事前構成されたツールは含まれていません。ツールチェーンを既に熟知している場合、独自のツールチェーンをセットアップできます。\n\n開始するには、**「作成」**をクリックしてください。\n\n段階的な説明については、[チュートリアル](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain) を参照してください。"
-template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** 今からツール統合を追加できます。段階的な説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2) を参照してください。"
+template.description: "このツールチェーンには、事前構成されたツールは含まれていません。 ツールチェーンに既に精通している場合は、独自のツールチェーンをセットアップできます。\n\n開始するには、**「作成」** をクリックします。\n\n詳しくは、[資料](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)を参照してください。"
+template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** ツール統合を追加できます。 詳しくは、[資料](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui)を参照してください。"

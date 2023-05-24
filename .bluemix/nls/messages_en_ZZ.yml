@@ -1,4 +1,4 @@
 ---
 template.name: "[G'Ｂｕｉｌｄ ｙｏｕr own toolchainฏูİı｜]"
-template.description: "[G'Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｈａｓ ｎｏ ｐｒｅｃｏｎｆｉｇｕｒｅｄ ｔｏｏｌｓ. Ｉｆ ｙｏｕ ａｒｅ ａｌｒｅａｄｙ ｆａｍｉｌｉａｒ ｗｉｔｈ ｔｏｏｌｃｈａｉｎｓ, ｙｏu can set up your own toolchain.\n\nTo get started, click **Create**.\n\nFor step-by-step instructions, follow the [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain).ฏูİı｜]"
-template.gettingStarted: "[G'**Ｙｏｕｒ ｔｏｏｌｃｈａｉｎ ｉｓ ｒｅａｄｙ!**\n**Ｑｕｉｃｋ ｓｔａｒｔ:** Ｙｏｕ ｃａｎ ｎｏｗ ａｄｄ ｔｏｏｌ ｉｎｔｅｇｒａｔｉｏｎｓ. Ｆor step-by-step instructions, see the [tutorial](https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain?task=2) for this toolchain.ฏูİı｜]"
+template.description: "[G'Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｈａｓ ｎｏ ｐｒｅｃｏｎｆｉｇｕｒｅｄ ｔｏｏｌｓ. Ｉｆ ｙｏｕ ａｒｅ ａｌｒｅａｄｙ ｆａｍｉｌｉａｒ ｗｉｔｈ ｔｏｏｌｃｈａｉｎｓ, ｙｏｕ ｃａｎ ｓｅt up your own toolchain.\n\nTo get started, click **Create**.\n\n For more details, view the [documentation](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui).ฏูİı｜]"
+template.gettingStarted: "[G'**Ｙｏｕｒ ｔｏｏｌｃｈａｉｎ ｉｓ ｒｅａｄｙ!**\n**Ｑｕｉｃｋ ｓｔａｒｔ:** Ｙｏｕ ｃａｎ ｎｏｗ ａｄｄ ｔｏｏｌ ｉｎｔｅｇｒａｔｉｏｎs. For more details, view the [documentation](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-integrations&interface=ui).ฏูİı｜]"
